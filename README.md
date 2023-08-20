@@ -55,9 +55,7 @@ I'm dedicated to **Contributing to Change**. I believe in **Innovation**. Let's 
 - Collaboration
 - Web Developement
 
-## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 
