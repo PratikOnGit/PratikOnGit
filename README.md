@@ -1,13 +1,12 @@
 # Hi there, I'm Pratik Lande! [<img src="https://clipart-library.com/img/872445.gif" width="50" height="50">](https://github.com/YourUsername)
 
 
-I'm a passionate [Your Role] with a strong interest in [Your Interests]. Welcome to my GitHub profile!
 
 
 
 - 🎓 Graduated with a B.Tech degree in Chemical Engineering from Visveshvaraya National Institute of Technology, Nagpur 🧪
 - 🌱 Currently learning Data Structures and Algorithms
-- 💼 ASE at Accenture
+- 💼 AI/ML Developer at Accenture
 - 🚀 Open source contributor
 - 📫 How to reach me: [thatsakhilesh@gmail.com](mailto:thatsakhilesh@gmail.com)
 
